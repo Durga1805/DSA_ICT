@@ -1,0 +1,4 @@
+Hi Durga 
+Welcome to ICT Academy  
+
+Data science is a broad, multidisciplinary field focused on building machine learning models and predictive algorithms, while data analytics is a specialized subset that examines existing data to generate immediate, actionable business insights
